@@ -1,7 +1,7 @@
 from os import listdir, path, mkdir
 import shutil
 
-TARGET_DIR = r"C:\Users\ejans\Downloads"
+TARGET_DIR = r"C:\Users\name\folder"
 
 # Supported file extensions
 image_extensions = [".jpg", ".jpeg", ".jpe", ".jif", ".jfif", ".jfi", ".png", ".gif", ".webp", ".tiff", ".tif", ".psd", ".raw", ".arw", ".cr2", ".nrw",
